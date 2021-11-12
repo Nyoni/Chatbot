@@ -1,0 +1,10 @@
+if using Anaconda
+-conda create -n chatbot python=3.6
+-activate chatbot
+
+if using VS Code
+-pip install nltk numpy tflearn tensorflow
+NLTK it gives some nice functions, to trim down our words
+
+
+creting intents file
